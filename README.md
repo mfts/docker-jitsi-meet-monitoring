@@ -24,7 +24,7 @@
 4. Open Grafana at http: // localhost: 3000
 5. Create a data source to InfluxDB \
 The username and password can be seen in the `.env` file
-6. Import the Dashboard from the file `fixtures/grafana-jvb.json`
+6. Import the Dashboard from the file `fixtures/grafana-dashboard.json`
 7. Configuring Jitsi Video Bridge (JVB)
   - `videobridge/config` file
     ```
